@@ -4,13 +4,25 @@
 }
 body {
    display: block;
+   padding-top: 25px;
    margin: auto;
-   width: 50%;
+   width: 90%;
+}
+header {
+   background: darkgray;
+   padding: 15px;
+   padding-top: 5px;
+   border-radius: 12px;
 }
 h1 {
    text-align: center;
 }
-ul {
+h2 {
+   text-align: center;
+}
+.right {
    text-align: right;
+}
+ul {
    list-style-type: none;
 }
